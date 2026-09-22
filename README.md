@@ -124,7 +124,7 @@ This dashboard helps stakeholders:
 ---
 
 ## 👤 Author
-**Salman Majeed**  
+**Muddassir Shaikh**,**Abdul Rehman Choudhary**  
 Data Analyst | Python | SQL | Power BI  
 
 ---
